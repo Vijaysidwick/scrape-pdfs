@@ -1,0 +1,5 @@
+invoice no
+invoice date
+customer no
+order no
+GST no
